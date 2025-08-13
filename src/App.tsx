@@ -10,14 +10,14 @@ export default function App() {
       <div className="product-list">
         <div className="product">
           <img src="https://cdn.awsli.com.br/600x450/1545/1545522/produto/265475803/r7--18-150-q95oyyg8ny.jpg" alt="Produto 1" width="150px" />
-          <h3>Câmera Profissional</h3>
+          <h3>Câmera Profissional Canon</h3>
           <p className="price">R$ 3500,00</p>
           <button className="buy-btn">Comprar</button>
         </div>
         <div className="product">
           <img src="https://cdn.awsli.com.br/2500x2500/1854/1854248/produto/310847027/93fd1f850a103975221b181930fc86c3-7nxcujncdu.jpg" alt="Produto 2" width="150px" />
-          <h3>Guitar Hero</h3>
-          <p className="price">R$ 80,00</p>
+          <h3>Kit Guitar Hero</h3>
+          <p className="price">R$ 200,00</p>
           <button className="buy-btn">Comprar</button>
         </div>
         <div className="product">
@@ -27,9 +27,9 @@ export default function App() {
           <button className="buy-btn">Comprar</button>
         </div>
         <div className="product">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREo_B3Rofv30R2H4byHLq2DzJ387863igLDJYxrX7MzUtkXK-u8VtNgRzrz-H6qrl6_uk&usqp=CAU" alt="Produto 4" width="150px" />
-          <h3>Tamagotchi Rosa</h3>
-          <p className="price">R$ 30,00</p>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwFSasZH1IORlP5DSmSh3pcV2WKUuiu8b1vA&s" alt="Produto 4" width="150px" />
+          <h3>Tamagotchi Paradise</h3>
+          <p className="price">R$ 90,00</p>
           <button className="buy-btn">Comprar</button>
         </div>
       </div>
